@@ -15,11 +15,11 @@ cd CyberHack-1.0
 sudo bash install.sh
 ```
 To start the tool after installation type
-https://raw.githubusercontent.com/CyberRide/CyberHack-1.0/main/modules/src/Screenshot%20at%202022-03-10%2004-26-09.png
+![](https://raw.githubusercontent.com/CyberRide/CyberHack-1.0/main/modules/src/Screenshot%20at%202022-03-10%2004-26-09.png)
 ```
 cyberhack
 ```
-https://raw.githubusercontent.com/CyberRide/CyberHack-1.0/main/modules/src/Screenshot%20at%202022-03-10%2004-46-14.png
+![](https://raw.githubusercontent.com/CyberRide/CyberHack-1.0/main/modules/src/Screenshot%20at%202022-03-10%2004-46-14.png)
 
 # Disclaimer
 This script is made for educational purpose only!
