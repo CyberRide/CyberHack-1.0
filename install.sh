@@ -113,7 +113,7 @@ if [ -d "$INSTALL_DIR" ]; then
         echo "";
         echo -e $ORANGE "		[+]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[+]"
         echo 		"		[+]						      		[+]"
-        echo -e $ORANGE  "		[+]     ✔✔✔ Now Just Type In Terminal (cyberhack) ✔✔✔ 	[+]"
+        echo -e $ORANGE  "		[+]     ✔✔✔ Now Just Type In Terminal (CyberHack-1.0) ✔✔✔ 	[+]"
         echo 		"		[+]						      		[+]"
         echo -e $ORANGE "		[+]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[+]"
     else
