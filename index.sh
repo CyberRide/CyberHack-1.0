@@ -51,51 +51,51 @@ echo -n -e "${BLUE}Bl4nk >>${NC} "
 read choice
 
 if [ $choice == 1 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 arpSpoofer.py
 sleep 5
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 2 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 ftpSniffer.py
 sleep 5
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 3 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 httpSniffer.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 4 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 macChanger.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 5 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 macSniffer.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 6 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 synFlooder.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 7 ]; then
@@ -113,7 +113,7 @@ echo -ne '\n'
 echo "Done!!!"
 sleep 2
 clear
-cd modules
+cd /usr/share/doc/cyberhack/modules
 echo -e "${RED}[!] This Tool Needs Monitoring Mode Enabled To Work, Do You Want To Enable Monitoring Mode? (y/n)"
 echo -n -e "${BLUE}Bl4nk >>${NC} "
 read choice 
@@ -148,7 +148,7 @@ echo -ne '\n'
 echo "Done!!!"
 sleep 2
 clear
-cd modules
+cd /usr/share/doc/cyberhack/modules
 clear
 sudo python3 FakeAP.py
 else
@@ -158,83 +158,83 @@ fi
 fi
 
 if [ $choice == 9 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 packetAnalyzer.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 10 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 advancedPortScanner.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 11 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 retrieveBanner.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 12 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 vulnerabilityScanner.py Vulnerability.txt
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 13 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 anonymousLogin.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 14 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 sshBrute.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 15 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 ftpBrute.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 16 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 directoryDiscover.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 17 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 wifiStealer.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 18 ]; then
-cd modules
+cd /usr/share/doc/cyberhack/modules
 sudo python3 copier.py
 sleep 
 cd -
-sudo bash index.sh
+sudo cyberhack
 fi
 
 if [ $choice == 19 ]; then
@@ -245,5 +245,5 @@ echo -e "${GREEN}[*] This Tool Is Made For Education Purposes Only !!!
 [*] Facebook: https://facebook.com/CyberRide/"
 
 sleep 15
-sudo bash index.sh
+sudo cyberhack
 fi
