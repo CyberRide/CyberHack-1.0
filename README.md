@@ -5,7 +5,7 @@ Tested on: ubuntu, parrotOS, cutefishOS, Virtual Machines, Kali, ubuntu.
 Updates and more tools will be coming soon!! Please leave suggestions for any future projects or upgrades on this project, Thank you!!
 
 Termux Version Coming Soon!!
-https://raw.githubusercontent.com/CyberRide/CyberHack-1.0/main/modules/src/Screenshot%20at%202022-03-10%2004-26-19.png
+![](https://raw.githubusercontent.com/CyberRide/CyberHack-1.0/main/modules/src/Screenshot%20at%202022-03-10%2004-26-19.png)
 
 # Installation
 ```
