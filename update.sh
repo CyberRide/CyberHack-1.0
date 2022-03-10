@@ -47,7 +47,7 @@ sudo chmod +x /usr/share/doc
 
 clear
 
-sudo rm -rf /usr/share/doc/cyberhack/
+sudo rm -rf /usr/share/doc/CyberHack-1.0/
 
 clear
 
@@ -55,23 +55,23 @@ cd /etc/
 
 clear
 
-sudo rm -rf /etc/cyberhack
+sudo rm -rf /etc/CyberHack-1.0
 
 clear
 
-mkdir cyberhack
+mkdir CyberHack-1.0
 
 clear
 
-cd cyberhack
+cd CyberHack-1.0
 
 clear
 
-git clone https://github.com/Z4nzu/cyberhack.git
+git clone https://github.com/CyberRide/CyberHack-1.0.git
 
 clear
 
-cd cyberhack
+cd CyberHack-1.0
 
 clear
 
