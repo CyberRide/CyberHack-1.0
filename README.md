@@ -1,4 +1,3 @@
-# CyberHack-1.0
 # CyberHack-tools
 A lot of pentesting tools made for linux.
 Tested on: ubuntu, parrotOS, cutefishOS, Virtual Machines, Kali, ubuntu.
