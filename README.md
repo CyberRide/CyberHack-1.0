@@ -1,6 +1,7 @@
-# CyberHack-tools
-A lot of pentesting tools made for linux.
-Tested on: ubuntu, parrotOS, cutefishOS, Virtual Machines, Kali, ubuntu.
+# Awesome Penetration Testing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+> A collection of awesome penetration testing resources.
+> # CyberHack-tools
 
 Updates and more tools will be coming soon!! Please leave suggestions for any future projects or upgrades on this project, Thank you!!
 
